@@ -1,6 +1,6 @@
 {
   "name": "ydl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple youtube downloader",
   "main": "./lib/index.js",
   "directories": {
